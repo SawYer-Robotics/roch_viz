@@ -1,6 +1,10 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package roch_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.0.7 (2017-01-22)
+------------------
+* Add launch file named view_navigation for navigation.
+* Load navigation file of rviz.
 
 1.0.6 (2017-01-17)
 ------------------
