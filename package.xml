@@ -2,17 +2,17 @@
 <package>
   <name>roch_viz</name>
   <version>1.0.10</version>
-  <description>Visualization configuration for SawYer roch</description>
+  <description>Visualization configuration for Soy roch</description>
 
-  <author email="wzhang@softrobtech.com">Carl</author>
+  <author email="carlzhang@soyrobotics.com">Carl</author>
 
-  <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
+  <maintainer email="carlzhang@soyrobotics.com">Carl</maintainer>
 
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/roch_viz</url>
-  <url type="bugtracker">https://github.com/SawYer-Robotics/roch_viz/issues</url>
-  <url type="repository">https://github.com/SawYer-Robotics/roch_viz</url>
+  <url type="bugtracker">https://github.com/Soy-Robotics/roch_viz/issues</url>
+  <url type="repository">https://github.com/Soy-Robotics/roch_viz</url>
 
   <buildtool_depend>catkin</buildtool_depend>
  
